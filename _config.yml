@@ -1,2 +1,4 @@
 name: Xing Ye
 markdown: kramdown
+
+theme: jekyll-theme-cayman
